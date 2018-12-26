@@ -117,5 +117,12 @@
     "y": 2365,
     "width": 162,
     "height": 217
+                               },
+  "Anarchy": {
+    "name": "Anarchy.png",
+    "x": 3268,
+    "y": 2790,
+    "width": 160,
+    "height": 81
    }
 }
