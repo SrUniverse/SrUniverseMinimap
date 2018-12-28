@@ -124,5 +124,12 @@
     "y": 2790,
     "width": 160,
     "height": 81
+                                 },
+  "wrldmp": {
+    "name": "wrldmp.png",
+    "x": -273,
+    "y": 1728,
+    "width": 400,
+    "height": 187
    }
 }
