@@ -152,5 +152,12 @@
     "y": 2796,
     "width": 29,
     "height": 17
+                                         },
+  "atkzone": {
+    "name": "atkzone.png",
+    "x": 370,
+    "y": 3040,
+    "width": 75,
+    "height": 45
    }
 }
