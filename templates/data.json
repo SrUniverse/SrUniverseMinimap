@@ -153,8 +153,8 @@
     "width": 29,
     "height": 17
                                          },
-  "atkzone": {
-    "name": "unknown-1-1.png",
+  "AttackZone": {
+    "name": "AttackZone.png",
     "x": 370,
     "y": 3040,
     "width": 209,
