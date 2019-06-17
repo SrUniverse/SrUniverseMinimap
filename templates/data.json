@@ -153,12 +153,12 @@
     "width": 29,
     "height": 17
                                          },
-  "AttackZone": {
-    "name": "AttackZone.png",
-    "x": 370,
-    "y": 3040,
-    "width": 209,
-    "height": 134
+  "atkzone": {
+    "name": "atkzone.png",
+    "x": 318,
+    "y": 3035,
+    "width": 800,
+    "height": 600
                                            },
   "mmp": {
     "name": "mmp.png",
