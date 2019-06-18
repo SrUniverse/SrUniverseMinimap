@@ -155,10 +155,10 @@
                                          },
   "atkzone": {
     "name": "atkzone.png",
-    "x": 318,
-    "y": 3035,
-    "width": 800,
-    "height": 600
+    "x": 317,
+    "y": 3034,
+    "width": 477,
+    "height": 151
                                            },
   "mmp": {
     "name": "mmp.png",
