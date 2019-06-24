@@ -174,4 +174,20 @@
     "width": 993,
     "height": 396
    }
+                                             },
+  "dc1": {
+    "name": "dc1.png",
+    "x": 1022,
+    "y": 249,
+    "width": 95,
+    "height": 50
+   }
+                                             },
+  "lobao-zone": {
+    "name": "lobao-zone.png",
+    "x": 658,
+    "y": 701,
+    "width": 340,
+    "height": 270
+   }
 }
