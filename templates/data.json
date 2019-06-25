@@ -190,4 +190,12 @@
     "width": 340,
     "height": 270
    }
+                                             },
+  "sla": {
+    "name": "sla.png",
+    "x": 1102,
+    "y": 2577,
+    "width": 308,
+    "height": 198
+   }
 }
